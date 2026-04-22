@@ -1,4 +1,4 @@
-const BUY_URL = "https://pay.kiwify.com.br/SEU-LINK-AQUI";
+const BUY_URL = "https://pay.kiwify.com.br/5oh0DCd";
 
 document.querySelectorAll("[data-buy-link]").forEach((link) => {
   link.setAttribute("href", BUY_URL);
